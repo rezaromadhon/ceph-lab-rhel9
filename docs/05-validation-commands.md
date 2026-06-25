@@ -5,23 +5,20 @@ This document contains basic commands used to validate the health and status of 
 ---
 
 ## Cluster Status
-
-```bash
 ceph -s
 
 
 ## Display OSD
-
-```bash
 ceph osd tree
 
-## Shows Storage Usage Per Pool
 
+## Shows Storage Usage Per Pool
 ceph df
 
-## Provides Detailed Health Wanings
 
+## Provides Detailed Health Wanings
 ceph health detail
+
 
 
 ## Notes
