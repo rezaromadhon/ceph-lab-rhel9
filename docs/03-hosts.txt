@@ -1,0 +1,5 @@
+HOST  ADDR           LABELS  STATUS  
+vm1   192.168.56.10  _admin          
+vm2   192.168.56.11                  
+vm3   192.168.56.12                  
+3 hosts in cluster
